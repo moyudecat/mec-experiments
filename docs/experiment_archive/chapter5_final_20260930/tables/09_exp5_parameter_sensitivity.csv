@@ -1,0 +1,9 @@
+﻿factor,metric,normalized_response_amplitude,source_experiment,source_file,source_column,unit,paper_section,status
+Gamma,Phi_T,0.1953919552277148,Exp-5 OFAT,outputs/01_formal/exp5_oe_rvea_final_20260820_162740/sensitivity_magnitude.csv,"factor,metric,normalized_response_amplitude",normalized ratio,5.3.3,FORMAL_FROZEN
+Gamma,Phi_E,0.0055707441977237,Exp-5 OFAT,outputs/01_formal/exp5_oe_rvea_final_20260820_162740/sensitivity_magnitude.csv,"factor,metric,normalized_response_amplitude",normalized ratio,5.3.3,FORMAL_FROZEN
+eta,Phi_T,0.009539108589757,Exp-5 OFAT,outputs/01_formal/exp5_oe_rvea_final_20260820_162740/sensitivity_magnitude.csv,"factor,metric,normalized_response_amplitude",normalized ratio,5.3.3,FORMAL_FROZEN
+eta,Phi_E,0.0024639463168118,Exp-5 OFAT,outputs/01_formal/exp5_oe_rvea_final_20260820_162740/sensitivity_magnitude.csv,"factor,metric,normalized_response_amplitude",normalized ratio,5.3.3,FORMAL_FROZEN
+Fmax,Phi_T,0.0267865721608436,Exp-5 OFAT,outputs/01_formal/exp5_oe_rvea_final_20260820_162740/sensitivity_magnitude.csv,"factor,metric,normalized_response_amplitude",normalized ratio,5.3.3,FORMAL_FROZEN
+Fmax,Phi_E,0.0058908057227937,Exp-5 OFAT,outputs/01_formal/exp5_oe_rvea_final_20260820_162740/sensitivity_magnitude.csv,"factor,metric,normalized_response_amplitude",normalized ratio,5.3.3,FORMAL_FROZEN
+Smax,Phi_T,0.0095523376036755,Exp-5 OFAT,outputs/01_formal/exp5_oe_rvea_final_20260820_162740/sensitivity_magnitude.csv,"factor,metric,normalized_response_amplitude",normalized ratio,5.3.3,FORMAL_FROZEN
+Smax,Phi_E,0.0024202343681415,Exp-5 OFAT,outputs/01_formal/exp5_oe_rvea_final_20260820_162740/sensitivity_magnitude.csv,"factor,metric,normalized_response_amplitude",normalized ratio,5.3.3,FORMAL_FROZEN

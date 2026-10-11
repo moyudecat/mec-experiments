@@ -1,0 +1,5 @@
+﻿network,variant,UER,LER,ICR,source_experiment,source_file,source_column,unit,paper_section,status
+Time,Improved Raw,0.2055555555555555,0.2222222222222222,0.7777777777777778,Exp-2,outputs/01_formal/improved_dualbp_v1_blind_test_20260819_002144/safety/table_improved_safety.csv,"network,variant,UER,LER,ICR",ratio,5.2.2,FORMAL_FROZEN
+Time,Improved Corrected,0.0222222222222222,0.0166666666666666,0.9777777777777776,Exp-2,outputs/01_formal/improved_dualbp_v1_blind_test_20260819_002144/safety/table_improved_safety.csv,"network,variant,UER,LER,ICR",ratio,5.2.2,FORMAL_FROZEN
+Energy,Improved Raw,0.25,0.25,0.75,Exp-2,outputs/01_formal/improved_dualbp_v1_blind_test_20260819_002144/safety/table_improved_safety.csv,"network,variant,UER,LER,ICR",ratio,5.2.2,FORMAL_FROZEN
+Energy,Improved Corrected,0.0666666666666666,0.0666666666666666,0.9333333333333332,Exp-2,outputs/01_formal/improved_dualbp_v1_blind_test_20260819_002144/safety/table_improved_safety.csv,"network,variant,UER,LER,ICR",ratio,5.2.2,FORMAL_FROZEN

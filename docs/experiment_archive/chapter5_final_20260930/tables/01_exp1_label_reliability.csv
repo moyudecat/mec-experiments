@@ -1,0 +1,11 @@
+﻿metric,value,display_percent,source_column,source_experiment,source_file,unit,paper_section,status
+median_relative_miss_gap,0.0,0.0,metrics.median_relative_miss_gap,Exp-1,outputs/01_formal/adaptive_b4_reference_confirmation_20260810_000412/summary.json,ratio,5.2.1,FORMAL_FROZEN
+q95_relative_miss_gap,0.002299282608415397,0.22992826084153972,metrics.q95_relative_miss_gap,Exp-1,outputs/01_formal/adaptive_b4_reference_confirmation_20260810_000412/summary.json,ratio,5.2.1,FORMAL_FROZEN
+max_relative_miss_gap,0.01297367303027114,1.297367303027114,metrics.max_relative_miss_gap,Exp-1,outputs/01_formal/adaptive_b4_reference_confirmation_20260810_000412/summary.json,ratio,5.2.1,FORMAL_FROZEN
+max_gamma_task_q95,0.01273182224721543,1.273182224721543,metrics.max_gamma_task_q95,Exp-1,outputs/01_formal/adaptive_b4_reference_confirmation_20260810_000412/summary.json,ratio,5.2.1,FORMAL_FROZEN
+q95_effective_relative_response_std,0.002933249715130606,0.2933249715130606,metrics.q95_effective_relative_response_std,Exp-1,outputs/01_formal/adaptive_b4_reference_confirmation_20260810_000412/summary.json,ratio,5.2.1,FORMAL_FROZEN
+max_effective_relative_response_std,0.007037180451836547,0.7037180451836547,metrics.max_effective_relative_response_std,Exp-1,outputs/01_formal/adaptive_b4_reference_confirmation_20260810_000412/summary.json,ratio,5.2.1,FORMAL_FROZEN
+samples,60.0,,samples,Exp-1,outputs/01_formal/adaptive_b4_reference_confirmation_20260810_000412/summary.json,count,5.2.1,FORMAL_FROZEN
+tasks,240.0,,tasks,Exp-1,outputs/01_formal/adaptive_b4_reference_confirmation_20260810_000412/summary.json,count,5.2.1,FORMAL_FROZEN
+units,3360.0,,units,Exp-1,outputs/01_formal/adaptive_b4_reference_confirmation_20260810_000412/summary.json,count,5.2.1,FORMAL_FROZEN
+overall_escalation_rate,0.008333333333333333,0.8333333333333334,overall_escalation_rate,Exp-1,outputs/01_formal/adaptive_b4_reference_confirmation_20260810_000412/summary.json,ratio,5.2.1,FORMAL_FROZEN
