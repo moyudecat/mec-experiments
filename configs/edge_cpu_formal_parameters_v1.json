@@ -1,0 +1,21 @@
+{
+  "parameter_version": "edge_cpu_formal_parameters_v1",
+  "f_min_E_cycle_per_s": 1500000000.0,
+  "f_max_E_cycle_per_s": 5000000000.0,
+  "F0_cycle_per_s": 20000000000.0,
+  "default_F_max_cycle_per_s": 20000000000.0,
+  "active_user_domain_only": true,
+  "local_user_f_value": 0.0,
+  "time_bp_called_when_m_equals_zero": false,
+  "source_type": "author_decision",
+  "decision_date": "2026-08-10",
+  "unit": "cycle/s",
+  "exp5_F_max_over_F0": [0.6, 0.8, 1.0, 1.2, 1.4],
+  "scenario_F_max_over_F0": {
+    "S1": 1.2,
+    "S2": 1.0,
+    "S3": 1.0,
+    "S4": 0.8,
+    "S5": 0.7
+  }
+}

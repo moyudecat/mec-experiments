@@ -1,0 +1,22 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/
+dist/
+build/
+.idea/
+.vscode/
+outputs/
+*.log
+*.tmp
+*.bak
+
+# Keep the curated paper archive and formally bound models trackable.
+!docs/experiment_archive/
+!docs/experiment_archive/**
+!artifacts/frozen_models/
+!artifacts/frozen_models/**
